@@ -35,7 +35,7 @@
     .fifth_container{
         justify-content: center;
         width: 172%;
-        height: 1800px;
+        height: 1895px;
         background-color:#e9ece1;
     }
 
@@ -154,7 +154,7 @@
         padding-right: 50px;
         /* font-weight: bold; */
         font-size: 26px;
-        line-height: 1;
+        line-height: 1.3;
     }
     /* .footer{
         height: 100px;
